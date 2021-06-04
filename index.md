@@ -1,5 +1,21 @@
 # Онлайн портфолио
 
+## Готовые игры на itch или в маркете
+
+### [Dungeon of Element](https://play.google.com/store/apps/details?id=com.Ma0ooDev.com.unity.Dungeon.of.Element) - Play Market
+```markdown
+
+```
+
+### [Acoustic Kitty (itch)](https://happymao.itch.io/acoustic-kitty) - itch
+```markdown
+
+```
+
+### [Radioactive farm simulator - Prototype](https://happymao.itch.io/radioactive7farm7simulator) - itch
+```markdown
+
+```
 
 You can use the [editor on GitHub](https://github.com/Ma0oo/DangeonOfElement.IO/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -24,7 +40,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and 
+[Image](src.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
